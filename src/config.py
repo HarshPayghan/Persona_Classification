@@ -31,7 +31,7 @@ TOP_K_RESULTS = 3
 
 # Escalation Threshold
 
-CONFIDENCE_THRESHOLD = 0.45
+CONFIDENCE_THRESHOLD = 0.25
 
 # Sensitive Keywords
 

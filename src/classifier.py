@@ -45,6 +45,11 @@ Classify into EXACTLY ONE category:
   timelines, deadlines, ROI, operations, management,
   executive reporting.
 
+
+
+If no category strongly matches,
+classify as General Support.
+
 IMPORTANT RULES:
 - Simple support questions are NOT Frustrated User.
 - Password reset requests are NOT Frustrated User.
