@@ -1,0 +1,9 @@
+Billing disputes are reviewed within 3 business days.
+
+Refund requests require:
+
+- Transaction ID
+- Customer email
+- Reason for refund
+
+Duplicate charges should be reported to support immediately.
